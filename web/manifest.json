@@ -1,6 +1,6 @@
 {
-    "name": "open_transit",
-    "short_name": "open_transit",
+    "name": "opentransit",
+    "short_name": "opentransit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

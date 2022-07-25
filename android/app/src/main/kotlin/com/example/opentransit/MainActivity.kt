@@ -1,4 +1,4 @@
-package com.example.open_transit
+package com.example.opentransit
 
 import io.flutter.embedding.android.FlutterActivity
 
